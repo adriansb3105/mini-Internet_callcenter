@@ -1,0 +1,1 @@
+IP estatica al PRimario y al Secundario
