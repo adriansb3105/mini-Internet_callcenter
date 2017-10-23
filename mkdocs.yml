@@ -5,6 +5,7 @@ pages:
     - Instalación Ubuntu Server: ubuntu_server.md
     - IP Estática: ip_estatica.md
     - DNS: dns.md
+    - Asterisk: asterisk.md
     - extra: extra.md
     - Acerca de: about.md
 

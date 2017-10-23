@@ -4,6 +4,9 @@ vim
 
 
 
+sudo apt-get install asterisk
+
+
 
 Primario
 
