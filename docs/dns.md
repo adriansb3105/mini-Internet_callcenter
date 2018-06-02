@@ -59,6 +59,7 @@ Se crea el archivo al cuál hace referencia el paso anterior, basado en un templ
 `sudo cp /etc/bind/db.127 /etc/bind/db.172`
 
 Y se edita con la siguiente información (no olvidar aumentar el valor del Serial con cada modificación)
+**Nota:** El número asociado al puntero PTR es el último octeto de la IP de nuestro Servidor
 
 	;
 	; BIND reverse data file for local 172.16.16.0 net
