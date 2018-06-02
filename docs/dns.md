@@ -72,7 +72,11 @@ Y se edita con la siguiente información (no olvidar aumentar el valor del Seria
 						604800 )	; Negative Cache TTL
 	;
 	@		IN	NS		callcenter.com.
+<<<<<<< HEAD
 	4	IN	PTR		callcenter.com.
+=======
+	1.0.0	IN	PTR		callcenter.com.
+>>>>>>> 064a5e5bfe987f6008eec031b8d7ce9097218305
 
 ## Servidor Redundante
 
